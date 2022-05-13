@@ -1,0 +1,27 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "back end aplicacion delivery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "node",
+    "delivery"
+  ],
+  "author": "juan camilo jaimes fernandez",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "pg-promise": "^10.11.1"
+  }
+}
